@@ -69,7 +69,7 @@
                 </div>
                 <div class="col-4" style="padding-left:10%">
                     <h5>Links</h5>
-                    <p><a href="/">GitHub</a></p>
+                    <p><a href="https://github.com/Cristobalam/prueba1">GitHub</a></p>
                     <p> <a href="/">Video</a></p>
                 </div>
                 
