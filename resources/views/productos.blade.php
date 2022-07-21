@@ -1,8 +1,5 @@
 @extends('layout.master')
 @section('title', 'Productos')
-
-
-
 @section('content')
     <div class="container pt-5 pb-5">
         <form>
@@ -50,5 +47,4 @@
             <button type="submit" class="btn btn-primary">Crear</button>
           </form>
     </div>
-
   @stop
