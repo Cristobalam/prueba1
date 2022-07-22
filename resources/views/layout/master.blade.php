@@ -65,7 +65,7 @@
                 <div class="col-4" style="padding-left:10%">
                     <h5>Links</h5>
                     <p><a href="https://github.com/Cristobalam/prueba1">GitHub</a></p>
-                    <p> <a href="/">Video</a></p>
+                    <p> <a href="https://www.youtube.com/watch?v=wbAf63uHT6I">Video</a></p>
                 </div>
             </div>
         </div>
